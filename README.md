@@ -3,8 +3,8 @@
 
 # User Stories
 
-As a user
-So that i can see the webistes I regularly visit
+As a user<br>
+So that i can see the webistes I regularly visit<br>
 I want to be able to see a list of bookmarks
 
 |            Object               |            Method               |
