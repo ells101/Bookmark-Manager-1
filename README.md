@@ -10,12 +10,19 @@ I want to be able to see a list of bookmarks
 |            Object               |            Method               |
 |:-------------------------------:|:-------------------------------:|
 |            User                 |                                 |
-|            Bookmarks            |          .all_bookmarks()       |
+|            Bookmarks            |          .all_bookmarks         |
 <img src="./public/readme_images/diag1.png" width="50%">
-<img src="./public/readme_images/diag2.png" width="50%">
 
+As a time-pressed user<br>
+So that I can save a website<br>
+I would like to add the site's address and title to bookmark manager
 
-### And some Advanced 'extension' User Stories:
+|            Object               |            Method               |
+|:-------------------------------:|:-------------------------------:|
+|            User                 |                                 |
+|            Bookmarks            |          .add_bookmarks         |
+<img src="./public/readme_images/diag3.png" width="50%">
+<img src="./public/readme_images/diagram.png" width="50%">
 
 
 
@@ -37,6 +44,12 @@ I want to be able to see a list of bookmarks
 
 ## Installation
 
+### Setting Up a PostgreSQL Database
+
+* Connect to psql
+* Create the database using the psql command CREATE DATABASE bookmark_manager;
+* Connect to the database using the pqsl command \c bookmark_manager;
+* Run the query we have saved in the file 01_create_bookmarks_table.sql
 
 ## Tests
 
