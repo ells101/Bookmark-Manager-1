@@ -63,5 +63,6 @@ I would like to add the site's address and title to bookmark manager
 
 
 ## Credits
-* JP Ferreira
 * Dewald Viljoen
+* JP Ferreira
+
