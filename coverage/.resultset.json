@@ -1,7 +1,8 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jpferreira/Desktop/Projects/week_4/bookmarks/app.rb": [
+      "/Users/Elliott/Documents/Ruby/Makers/Week4/Bookmark-Manager/app.rb": [
+        1,
         1,
         1,
         1,
@@ -20,42 +21,44 @@
         1,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
         1,
         null,
         null
       ],
-      "/Users/jpferreira/Desktop/Projects/week_4/bookmarks/lib/bookmark.rb": [
+      "/Users/Elliott/Documents/Ruby/Makers/Week4/Bookmark-Manager/lib/bookmark.rb": [
         1,
-        null,
+        1,
         1,
         null,
         2,
+        2,
+        10,
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/Elliott/Documents/Ruby/Makers/Week4/Bookmark-Manager/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         null,
         null
       ],
-      "/Users/jpferreira/Desktop/Projects/week_4/bookmarks/spec/bookmark_spec.rb": [
+      "/Users/Elliott/Documents/Ruby/Makers/Week4/Bookmark-Manager/spec/features/bookmark_feat_spec.rb": [
         1,
         null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/jpferreira/Desktop/Projects/week_4/bookmarks/spec/features/bookmark_feat_spec.rb": [
         1,
         1,
         1,
@@ -65,7 +68,7 @@
         null,
         null
       ],
-      "/Users/jpferreira/Desktop/Projects/week_4/bookmarks/spec/features/index_feat_spec.rb": [
+      "/Users/Elliott/Documents/Ruby/Makers/Week4/Bookmark-Manager/spec/features/index_feat_spec.rb": [
         null,
         1,
         1,
@@ -75,6 +78,6 @@
         null
       ]
     },
-    "timestamp": 1621264185
+    "timestamp": 1621353950
   }
 }
