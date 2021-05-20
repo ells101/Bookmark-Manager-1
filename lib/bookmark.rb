@@ -9,6 +9,5 @@ class Bookmark
 #            result.each do |row|
 #              puts " %8d | %-60s " %
 #                row.values_at('id', 'url')
-        
     end
 end
