@@ -50,6 +50,8 @@ I would like to add the site's address and title to bookmark manager
 * Create the database using the psql command CREATE DATABASE bookmark_manager;
 * Connect to the database using the pqsl command \c bookmark_manager;
 * Run the query we have saved in the file 01_create_bookmarks_table.sql
+* To creat the test database simply use psql: CREATE DATABASE "bookmark_manager_test";
+* and for the test table: CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));
 
 ## Tests
 
